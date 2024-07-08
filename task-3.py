@@ -1,6 +1,5 @@
 import re
 
-
 num_len = 9
 
 
